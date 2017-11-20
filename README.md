@@ -1,4 +1,4 @@
-# Redux React Simple Tinder App
+# Redux React Book List App
 
 ```
 > npm install
